@@ -1,0 +1,2 @@
+# coop
+cooperative games list
